@@ -5,8 +5,8 @@ This project has react samples of https://www.youtube.com/watch?v=jLS0TkAHvRg&t=
 npx create-react-app react-demo
 
 ## Folder Structure
-package.json - dependencies
-public -  pwd (other files)
-          index.html
-src - main files for react
+package.json - dependencies;
+public -  pwd (other files),
+          index.html;
+src - main files for react.
 
